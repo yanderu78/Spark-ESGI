@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\spark_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FootballApp$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\classes\FootballApp$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FootballApp$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\classes\FootballApp$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FootballApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\classes\FootballApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FootballApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\classes\FootballApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\classes\META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\esgi.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\brian\IdeaProjects\Spark\target\scala-2.12\classes\META-INF\esgi.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

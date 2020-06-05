@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\brian\IdeaProjects\Spark\src\main\scala\FootballApp.scala:24:25: not found: value year[0m
+[0m[[0m[31merror[0m] [0m[0m                .filter(year($"date") >= 1980)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
